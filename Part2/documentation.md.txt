@@ -1,0 +1,6 @@
+In this software problem I have implemented several classes such as :
+##Task_Category : 
+which is holding a list of all the tasks categoris in the Software
+I have implemented for this reason a Singleton design Pattern to have one single instance from this class in all the program 
+
+##Software_Category:
